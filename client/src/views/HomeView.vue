@@ -39,7 +39,7 @@ onMounted(() => {
   <section class="max-w-7xl mx-auto">
     <div>
       <h1 class="font-extrabold text-[#222328] text-[32px]">
-        The Community Showcase
+        The Community Showcase1
       </h1>
       <p class="mt-2 text-[#666e75] text-[14px] max-w-[500px]">
         Browse through a collection of imaginative and visually stunning images
